@@ -1,0 +1,7 @@
+{
+    "message": "Изменение настроек подключения",
+    "payload": {
+        "class": "endpoint",
+        "value": "url"
+    }
+}
